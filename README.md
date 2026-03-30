@@ -9,7 +9,7 @@ BinomialModelSimulation was implemented in file binomial_simulation.py to:
 - Plot tree structure to illustrate path dependence
 - Visualize how step size affects state distribution
 
-### Prerequisites
+# Prerequisites
 - Python 3.8 or higher
 - pip (to install packages)
 
