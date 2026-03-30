@@ -4,10 +4,10 @@ A python application that prices European options using both the Binomial Tree m
 
 # My Contribution
 BinomialModelSimulation was implemented in file binomial_simulation.py to:
-Construct stock price tree under up/down moves
-Generate all future price states
-Plot tree structure to illustrate path dependence
-Visualize how step size affects state distribution
+- Construct stock price tree under up/down moves
+- Generate all future price states
+- Plot tree structure to illustrate path dependence
+- Visualize how step size affects state distribution
 
 ### Prerequisites
 - Python 3.8 or higher
