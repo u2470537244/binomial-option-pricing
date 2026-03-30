@@ -3,7 +3,7 @@
 A python application that prices European options using both the Binomial Tree model and the Black-Scholes-Merton mode, with real-world market data integration. 
 
 # My Contribution
-BinomialModelSimulation was implemented in file binomial_simulation.py to:
+BinomialModelSimulation was implemented in file `binomial_simulation.py` to:
 - Construct stock price tree under up/down moves
 - Generate all future price states
 - Plot tree structure to illustrate path dependence
@@ -14,7 +14,7 @@ BinomialModelSimulation was implemented in file binomial_simulation.py to:
 - pip (to install packages)
 
 ### Step 1: 
-Clone the repository
+Unzip `source.rar`
 
 ### Step 2:
 Open a terminal in the project directory and run:
